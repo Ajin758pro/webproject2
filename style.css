@@ -1,5 +1,6 @@
 .lgo{
        margin-right: 20px;
+       border: #04AA6D;
 }
 
 
@@ -90,4 +91,20 @@ button:hover {
   padding: 8px 25px;
   border-radius: 6px;
   transition:0.5s;
+}
+
+
+.{
+  font-size: 18px;
+  color: #ad2727;
+}
+#art{
+  color: #04AA6D;
+  font-family:'Times New Roman', Times, serif;
+  font-size:x-large;
+  font: weight 300px;;
+
+}
+#nat{
+  border-radius: 50px;
 }
